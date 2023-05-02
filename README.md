@@ -3,7 +3,7 @@
 
 Este proyecto explicamos el funcionamiento de un sistema de seguimiento y control
 
-## INSTALACION
+## Instalacion de las dependencias
 
 Instalar mi proyecto con npm, ejecuta
 
@@ -12,7 +12,7 @@ Instalar mi proyecto con npm, ejecuta
 ```
 
 
-## INICIAR APLICACION
+## Iniciar aplicacion
 
 Para iniciar este proyecto, ejecute el
 
@@ -20,3 +20,10 @@ Para iniciar este proyecto, ejecute el
   App.bat
 ```
 
+## Stack de Tecnologias
+
+**Client:** React
+
+**Server:** Node, Express
+
+**DataBase:** MySql
