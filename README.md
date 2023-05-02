@@ -10,3 +10,11 @@ Para iniciar este proyecto, ejecute el
 ```bash
   App.bat
 ```
+
+## INSTALACION
+
+Instalar mi proyecto con npm, ejecuta
+
+```bash
+  Instalacion.bat
+```
