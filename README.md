@@ -5,7 +5,7 @@ Este proyecto explicamos el funcionamiento de un sistema de seguimiento y contro
 
 ## INICIAR APLICACION
 
-Para iniciar este proyecto, ejecute la el
+Para iniciar este proyecto, ejecute el
 
 ```bash
   App.bat
