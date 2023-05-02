@@ -3,6 +3,15 @@
 
 Este proyecto explicamos el funcionamiento de un sistema de seguimiento y control
 
+## INSTALACION
+
+Instalar mi proyecto con npm, ejecuta
+
+```bash
+  Instalacion.bat
+```
+
+
 ## INICIAR APLICACION
 
 Para iniciar este proyecto, ejecute el
@@ -11,10 +20,3 @@ Para iniciar este proyecto, ejecute el
   App.bat
 ```
 
-## INSTALACION
-
-Instalar mi proyecto con npm, ejecuta
-
-```bash
-  Instalacion.bat
-```
