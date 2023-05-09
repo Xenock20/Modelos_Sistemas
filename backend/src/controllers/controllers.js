@@ -87,9 +87,9 @@ export const putProducto = async (req, res) => {
   }
 
   if (tipo === "IMPORTACION") {
-    currentStock = currentStock + nuevoStock;
+    currentStock = currentStock + parseFloat(nuevoStock);
   } else if (tipo === "EXPORTACION") {
-    currentStock = currentStock - nuevoStock;
+    currentStock = currentStock - parseFloat(nuevoStock);
   } else {
     currentStock = nuevoStock;
   }
